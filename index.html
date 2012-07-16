@@ -1,0 +1,15 @@
+---
+layout: default
+title: Elisabeth Miles | Pilotlight Design
+---
+
+<div id="home">
+  <p> My name is Elisabeth Miles. I do UX design and front-end development. I am currently employed with <a href="outright.com" target="_blank">Outright.com</a>, which makes accounting software for small businesses and online sellers.</p>
+  <p> I live in San Francisco and have over 12 years experience designing web applications. Below are some of the projects I've been working on, recently. Enjoy.</p> 
+  <h1>Projects</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>

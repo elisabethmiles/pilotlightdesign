@@ -1,0 +1,171 @@
+body {
+  width: 100%;
+  margin: 0px auto; 
+  font-family: "Helvetica", verdana, sans-serif;
+  font-size: 15px;
+  position: relative;
+  height: 100%;
+  color: #333;
+}
+
+h1, h2 {
+  font-weight: normal;
+  text-transform: uppercase;
+}
+
+h1 {
+  font-size: 120%;
+  letter-spacing: .09em;
+}
+
+h2 {
+  font-size: 22px;
+  color: #888;
+}
+
+a {
+  color: #cc00cc;
+  text-decoration: none;
+}
+.col_1 {
+  width: 200px;
+  float: left;
+}
+.col_2 {
+  float: left;
+  width: 720px;
+}
+.col_3{
+  float: left;
+  margin-left: 40px;
+  margin-top: 100px;
+}
+
+.col_3 h2{
+  font-size: 14px;
+  text-transform: uppercase;
+  
+}
+.header {
+  height: 80px;
+  background: #fff url("/images/bg_header.png") repeat-x 0px 40px;
+  overflow: hidden;
+}
+
+.title {
+  background: #000;
+}
+.title div{
+  width: 1024px;
+  margin: 0px auto;
+}
+.title h1{
+  font-family: "BethHand";
+  margin: 6px 0px;
+  line-height: 40px;
+  display: inline;
+  margin-right: 10px;
+  padding-right: 10px;
+  border-right: 1px dotted #888;
+  text-transform: lowercase;
+  font-size: 200%;
+}
+
+.title h1 a {
+  text-decoration: none;
+  color: #cc00cc;
+}
+
+
+.header h2 {
+  display: inline;
+  text-transform: uppercase;
+  font-size: 13px;
+  font-weight: normal;
+  color: #ededed;
+  line-height: 18px;
+}
+.nav {
+  font-size: 12px;
+}
+
+ul.posts, .nav ul {
+  margin: 0px;
+  padding: 0px;
+}
+ul.posts li, .nav ul li{
+  list-style-type: none;
+  line-height: 28px;
+}
+
+ul.posts span:after, .nav ul li:before{
+  content: '\00bb ';
+  color: #ccc;
+}
+
+.nav a {
+  text-decoration: none;
+  color: #cc00cc;
+  padding-left: 6px;
+  text-transform: uppercase;
+}
+
+.page {
+  width: 1024px;
+  margin: 0px auto;
+  overflow:hidden;
+  min-height: 500px;
+  clear: both;
+}
+
+#post img {
+  border-top: 3px dotted #ccc;
+  margin: 10px 0px;
+  padding: 10px 0px;
+}
+p {
+  line-height: 24px;
+}
+
+p, ul {
+  width: 500px;
+}
+
+#post {
+  float: left;
+  
+}
+
+#post h1, #home h1 {
+  color: #555;
+}
+
+
+#post ul li {
+  list-style-type:square;
+}
+
+
+
+.footer {
+  width: 100%;
+  padding: 10px 0px 50px;
+  border-top: 1px dotted #ccc;
+}
+.footer .contact {
+  width: 960px;
+  margin: 0px auto;
+}
+.contact {
+  text-align: center;
+}
+
+.contact p {
+  display: inline;
+  padding-right: 10px;
+  margin-right: 10px;
+  border-right: 1px dotted #ccc;
+}
+.contact p:last-child {
+  border-right: none;
+}
