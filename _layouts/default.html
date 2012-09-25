@@ -1,9 +1,12 @@
   {% include header.html %}
-  <div class="col_1">
-    {% include navigation.html %}
-  </div>
-  <div class="col_2">
-      {{ content }}
+	<div class="container">
+  <div class="row-fluid">
+		<div class="span2">
+    	{% include navigation.html %}
+		</div>
+		<div class="span10">
+			{{ content }}
+		</div>
   </div>
   {% include footer.html %}
-
+</div>
