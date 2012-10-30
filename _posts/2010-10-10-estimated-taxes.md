@@ -13,7 +13,7 @@ Cleaned up Estimated Taxes UI added feature allowing users to record paid estima
 
  
 
-<img src="/images/examples/estimated_taxes.png"/>
+<img src="../images/examples/estimated_taxes.png"/>
 
 <img src="/images/examples/estimated_taxes_record_payment.png"/>
 
