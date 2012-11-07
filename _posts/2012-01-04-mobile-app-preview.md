@@ -17,7 +17,7 @@ To release to a select group of users and solicit feedback for future features.
 Over all feedback on the preview was positive. We learned that users wanted to be able to track expenses, as well as add and edit transactions and were able to prioritize the next 3 release accordingly. 
 
  
-<img src="/portfolio/mobile-preview-r2_0000_login.png" title="Mobile App Login"/>
+<img src="/images/examples/mobile-preview-r2_0000_login.png" title="Mobile App Login"/>
 <br />
 
 
