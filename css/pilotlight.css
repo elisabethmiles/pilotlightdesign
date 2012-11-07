@@ -50,3 +50,8 @@ body {
 	color: #a6b3b6;
   
 }
+
+.carousel-inner {
+	background: white;
+}
+}
