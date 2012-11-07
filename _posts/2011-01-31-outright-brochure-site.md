@@ -25,5 +25,5 @@ Through testing, we discovered that showing the actual product via screenshots a
  
 
 <img src="/images/examples/marketing_v2_h1_thumb.png" title="Outright.com Homepage Design"/>
-*Outright Brochure Design*  |  [See More Examples](/recent_work/outright-brochure-site-images.html)   
+ 
   
