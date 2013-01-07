@@ -1,0 +1,9 @@
+markdown: rdiscount
+pygments: true
+
+source: .
+destination: ./_site
+plugins: ./_plugins  
+
+safe: false
+permalink: /:title.html
