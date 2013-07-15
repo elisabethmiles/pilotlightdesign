@@ -1,3 +1,5 @@
+
+
 body{
 	font-family: "HelveticaNeue-Light", Helvetica, Arial, sans-serif;
   height: 100%;
@@ -44,9 +46,10 @@ body.index {
 }
 
 .navbar .brand {
-	font-family: "Open Sans";
+	font-family: "Georgia", times, serif;
   color: #a6b3b6;
-	text-transform: uppercase; 
+	font-size:20px;
+	letter-spacing: 0.1em;
 }
 
 .navbar .nav > li > a  {
