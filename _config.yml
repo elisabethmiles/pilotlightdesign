@@ -6,4 +6,4 @@ destination: ./_site
 plugins: ./_plugins  
 
 safe: false
-permalink: title
+permalink: :title
